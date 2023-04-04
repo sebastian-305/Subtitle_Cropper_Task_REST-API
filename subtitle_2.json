@@ -1,0 +1,4603 @@
+[{
+  "subtitle_json": [
+    {
+      "start": 0.915,
+      "end": 5.715,
+      "oriText": "In Georgien gibt es seit Tagen\nMassenproteste und Straßenschlachten",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "In",
+            "l": "In",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 2,
+            "i": 0
+          },
+          {
+            "t": "Georgien",
+            "l": "Georgien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 0,
+            "i": 1,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "gibt",
+            "l": "geben",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 2,
+            "i": 2,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "es",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "ep",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 2,
+            "i": 3,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "seit",
+            "l": "seit",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 2,
+            "i": 4
+          },
+          {
+            "t": "Tagen",
+            "l": "Tag",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 4,
+            "i": 5,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Massenproteste",
+            "l": "Massenproteste",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 2,
+            "i": 6,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 6,
+            "i": 7
+          },
+          {
+            "t": "Straßenschlachten",
+            "l": "Straßenschlachten",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "hi": 7,
+            "i": 8,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "start": 5.815,
+      "end": 10.115,
+      "oriText": "Und die Demonstrierenden dürften\nsich vorerst durchgesetzt haben.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "ju",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 13,
+            "i": 10
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 12,
+            "i": 11,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Plur",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Demonstrierenden",
+            "l": "Demonstrierende",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 13,
+            "i": 12,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "dürften",
+            "l": "dürfen",
+            "p": "AUX",
+            "pt": "VMFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 13,
+            "i": 13,
+            "m": {
+              "Mood": "Sub",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "sich",
+            "l": "sich",
+            "p": "PRON",
+            "pt": "PRF",
+            "d": "oa",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 16,
+            "i": 14,
+            "m": {
+              "Case": "Acc",
+              "Number": "Plur",
+              "Person": "3",
+              "PronType": "Prs",
+              "Reflex": "Yes"
+            }
+          },
+          {
+            "t": "vorerst",
+            "l": "vorerst",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 16,
+            "i": 15
+          },
+          {
+            "t": "durchgesetzt",
+            "l": "durchsetzen",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 17,
+            "i": 16,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": "haben",
+            "l": "haben",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "oc",
+            "a": true,
+            "s": true,
+            "hi": 13,
+            "i": 17,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 13,
+            "i": 18
+          }
+        ]
+      }
+    },
+    {
+      "start": 10.215,
+      "end": 13.615,
+      "oriText": "Die Regierung zieht\nden Stein des Anstoßes zurück:",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 21,
+            "i": 20,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Regierung",
+            "l": "Regierung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 22,
+            "i": 21,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zieht",
+            "l": "ziehen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 22,
+            "i": 22,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "den",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 24,
+            "i": 23,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Stein",
+            "l": "Stein",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 22,
+            "i": 24,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "des",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 26,
+            "i": 25,
+            "m": {
+              "Case": "Gen",
+              "Definite": "Def",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Anstoßes",
+            "l": "Anstoß",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 24,
+            "i": 26,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zurück",
+            "l": "zurück",
+            "p": "ADV",
+            "pt": "PTKVZ",
+            "d": "svp",
+            "a": true,
+            "s": true,
+            "hi": 22,
+            "i": 27
+          },
+          {
+            "t": ":",
+            "l": ":",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 22,
+            "i": 28
+          }
+        ]
+      }
+    },
+    {
+      "start": 13.615,
+      "end": 18.415,
+      "oriText": "Ein Gesetz, das Organisationen, die\naus anderen Ländern Geld bekommen,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Ein",
+            "l": "Ein",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 31,
+            "i": 30,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Ind",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Gesetz",
+            "l": "Gesetz",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "hi": 48,
+            "i": 31,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 31,
+            "i": 32
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 34,
+            "i": 33,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Organisationen",
+            "l": "Organisation",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "hi": 31,
+            "i": 34,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 34,
+            "i": 35
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "PRON",
+            "pt": "PRELS",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 41,
+            "i": 36,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur",
+              "PronType": "Rel"
+            }
+          },
+          {
+            "t": "aus",
+            "l": "aus",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 41,
+            "i": 37
+          },
+          {
+            "t": "anderen",
+            "l": "ander",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 39,
+            "i": 38,
+            "m": {
+              "Case": "Dat",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Ländern",
+            "l": "Land",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 37,
+            "i": 39,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Geld",
+            "l": "Geld",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 41,
+            "i": 40,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "bekommen",
+            "l": "bekommen",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "rc",
+            "a": true,
+            "s": false,
+            "hi": 34,
+            "i": 41,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 31,
+            "i": 42
+          }
+        ]
+      }
+    },
+    {
+      "start": 18.515,
+      "end": 21.315,
+      "oriText": "als ausländische Agenten\neingestuft hätte.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "als",
+            "l": "als",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 47,
+            "i": 44
+          },
+          {
+            "t": "ausländische",
+            "l": "ausländisch",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 46,
+            "i": 45,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Agenten",
+            "l": "Agent",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 44,
+            "i": 46,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "eingestuft",
+            "l": "einstufen",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 48,
+            "i": 47,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": "hätte",
+            "l": "haben",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "hi": 48,
+            "i": 48,
+            "m": {
+              "Mood": "Sub",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 48,
+            "i": 49
+          }
+        ]
+      }
+    },
+    {
+      "start": 21.415,
+      "end": 24.715,
+      "oriText": "Ein ähnliches Gesetz\ngibt es seit 2012 in Russland.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Ein",
+            "l": "Ein",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 53,
+            "i": 51,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Ind",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "ähnliches",
+            "l": "ähnlich",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 53,
+            "i": 52,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Gesetz",
+            "l": "Gesetz",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 54,
+            "i": 53,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "gibt",
+            "l": "geben",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 54,
+            "i": 54,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "es",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "ep",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 54,
+            "i": 55,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "seit",
+            "l": "seit",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 54,
+            "i": 56
+          },
+          {
+            "t": "2012",
+            "l": "2012",
+            "p": "NUM",
+            "pt": "CARD",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 56,
+            "i": 57
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 54,
+            "i": 58
+          },
+          {
+            "t": "Russland",
+            "l": "Russland",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 58,
+            "i": 59,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 54,
+            "i": 60
+          }
+        ]
+      }
+    },
+    {
+      "start": 24.815,
+      "end": 28.715,
+      "oriText": "Es hat dort zur Schließung\nvon unabhängigen Medien geführt.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Es",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "ep",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 63,
+            "i": 62,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "hat",
+            "l": "haben",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 63,
+            "i": 63,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "dort",
+            "l": "dort",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 70,
+            "i": 64
+          },
+          {
+            "t": "zur",
+            "l": "zur",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 70,
+            "i": 65,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Schließung",
+            "l": "Schließung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 65,
+            "i": 66,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "von",
+            "l": "von",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "pg",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 66,
+            "i": 67
+          },
+          {
+            "t": "unabhängigen",
+            "l": "unabhängig",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 69,
+            "i": 68,
+            "m": {
+              "Case": "Dat",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Medien",
+            "l": "Medium",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 67,
+            "i": 69,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "geführt",
+            "l": "führen",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 63,
+            "i": 70,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 63,
+            "i": 71
+          }
+        ]
+      }
+    },
+    {
+      "start": 28.815,
+      "end": 31.315,
+      "oriText": "Georgien liegt südlich von Russland.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Georgien",
+            "l": "Georgien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 72,
+            "i": 73,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "liegt",
+            "l": "liegen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 74,
+            "i": 74,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "südlich",
+            "l": "südlich",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 74,
+            "i": 75,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "von",
+            "l": "von",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 74,
+            "i": 76
+          },
+          {
+            "t": "Russland",
+            "l": "Russland",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 76,
+            "i": 77,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 74,
+            "i": 78
+          }
+        ]
+      }
+    },
+    {
+      "start": 31.415,
+      "end": 33.815,
+      "oriText": "Etwa 18 Prozent\nder Fläche des Landes",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Etwa",
+            "l": "Etwa",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 81,
+            "i": 80
+          },
+          {
+            "t": "18",
+            "l": "18",
+            "p": "NUM",
+            "pt": "CARD",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 82,
+            "i": 81
+          },
+          {
+            "t": "Prozent",
+            "l": "Prozent",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 88,
+            "i": 82,
+            "m": {
+              "Gender": "Neut"
+            }
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 84,
+            "i": 83,
+            "m": {
+              "Case": "Gen",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Fläche",
+            "l": "Fläche",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 82,
+            "i": 84,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "des",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 86,
+            "i": 85,
+            "m": {
+              "Case": "Gen",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Landes",
+            "l": "Land",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "hi": 84,
+            "i": 86,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "start": 33.915,
+      "end": 37.715,
+      "oriText": "stehen nicht unter Kontrolle\nder georgischen Regierung.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "stehen",
+            "l": "stehen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 88,
+            "i": 88,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "nicht",
+            "l": "nicht",
+            "p": "PART",
+            "pt": "PTKNEG",
+            "d": "ng",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 88,
+            "i": 89
+          },
+          {
+            "t": "unter",
+            "l": "unter",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 88,
+            "i": 90
+          },
+          {
+            "t": "Kontrolle",
+            "l": "Kontrolle",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 90,
+            "i": 91,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 94,
+            "i": 92,
+            "m": {
+              "Case": "Gen",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "georgischen",
+            "l": "georgisch",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 94,
+            "i": 93,
+            "m": {
+              "Case": "Gen",
+              "Degree": "Pos",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Regierung",
+            "l": "Regierung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "hi": 91,
+            "i": 94,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 88,
+            "i": 95
+          }
+        ]
+      }
+    },
+    {
+      "start": 37.815,
+      "end": 42.215,
+      "oriText": "In Abchasien und Süd-Ossetien\nsind russische Truppen stationiert.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "In",
+            "l": "In",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 101,
+            "i": 97
+          },
+          {
+            "t": "Abchasien",
+            "l": "Abchasien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 97,
+            "i": 98,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 98,
+            "i": 99
+          },
+          {
+            "t": "Süd-Ossetien",
+            "l": "Süd-Ossetien",
+            "p": "PROPN",
+            "pt": "NN",
+            "d": "cj",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 99,
+            "i": 100,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "sind",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 101,
+            "i": 101,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "russische",
+            "l": "russisch",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 103,
+            "i": 102,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Truppen",
+            "l": "Truppe",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 101,
+            "i": 103,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "stationiert",
+            "l": "stationieren",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "pd",
+            "a": true,
+            "s": false,
+            "hi": 101,
+            "i": 104,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 101,
+            "i": 105
+          }
+        ]
+      }
+    },
+    {
+      "start": 42.315,
+      "end": 44.915,
+      "oriText": "Georgien war früher\nTeil der Sowjetunion",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Georgien",
+            "l": "Georgien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 106,
+            "i": 107,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "war",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 108,
+            "i": 108,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "früher",
+            "l": "früh",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 108,
+            "i": 109,
+            "m": {
+              "Degree": "Cmp"
+            }
+          },
+          {
+            "t": "Teil",
+            "l": "Teil",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "pd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 108,
+            "i": 110,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 112,
+            "i": 111,
+            "m": {
+              "Case": "Gen",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Sowjetunion",
+            "l": "Sowjetunion",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "n": "ORG",
+            "hi": 110,
+            "i": 112,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "start": 45.015,
+      "end": 48.315,
+      "oriText": "und strebt jetzt\neinen Beitritt zu EU und NATO an.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 108,
+            "i": 114
+          },
+          {
+            "t": "strebt",
+            "l": "streben",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 114,
+            "i": 115,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "jetzt",
+            "l": "jetzt",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 115,
+            "i": 116
+          },
+          {
+            "t": "einen",
+            "l": "ein",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 118,
+            "i": 117,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Ind",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Beitritt",
+            "l": "Beitritt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 115,
+            "i": 118,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zu",
+            "l": "zu",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 118,
+            "i": 119
+          },
+          {
+            "t": "EU",
+            "l": "EU",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "ORG",
+            "hi": 119,
+            "i": 120,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 120,
+            "i": 121
+          },
+          {
+            "t": "NATO",
+            "l": "NATO",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "ORG",
+            "hi": 121,
+            "i": 122,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "an",
+            "l": "an",
+            "p": "ADP",
+            "pt": "PTKVZ",
+            "d": "svp",
+            "a": true,
+            "s": true,
+            "hi": 115,
+            "i": 123
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 108,
+            "i": 124
+          }
+        ]
+      }
+    },
+    {
+      "start": 48.415,
+      "end": 50.815,
+      "oriText": "Gesetzesvorhaben in jüngster Zeit,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Gesetzesvorhaben",
+            "l": "Gesetzesvorhaben",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 144,
+            "i": 126,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 126,
+            "i": 127
+          },
+          {
+            "t": "jüngster",
+            "l": "jung",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 129,
+            "i": 128,
+            "m": {
+              "Case": "Dat",
+              "Degree": "Sup",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Zeit",
+            "l": "Zeit",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "hi": 127,
+            "i": 129,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 126,
+            "i": 130
+          }
+        ]
+      }
+    },
+    {
+      "start": 50.915,
+      "end": 54.715,
+      "oriText": "wie auch das geplante Gesetz\ngegen \"ausländische Agenten\",",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "wie",
+            "l": "wie",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 131,
+            "i": 132
+          },
+          {
+            "t": "auch",
+            "l": "auch",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 136,
+            "i": 133
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 136,
+            "i": 134,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "geplante",
+            "l": "geplant",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 136,
+            "i": 135,
+            "m": {
+              "Case": "Acc",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Gesetz",
+            "l": "Gesetz",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 132,
+            "i": 136,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "gegen",
+            "l": "gegen",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 136,
+            "i": 137
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 140,
+            "i": 138
+          },
+          {
+            "t": "ausländische",
+            "l": "ausländisch",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 140,
+            "i": 139,
+            "m": {
+              "Case": "Acc",
+              "Degree": "Pos",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Agenten",
+            "l": "Agent",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 137,
+            "i": 140,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 140,
+            "i": 141
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 144,
+            "i": 142
+          }
+        ]
+      }
+    },
+    {
+      "start": 54.715,
+      "end": 56.815,
+      "oriText": "sind für manche Hinweis darauf,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "sind",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 144,
+            "i": 144,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "für",
+            "l": "für",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 144,
+            "i": 145
+          },
+          {
+            "t": "manche",
+            "l": "manch",
+            "p": "DET",
+            "pt": "PIAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 147,
+            "i": 146,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Plur",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "Hinweis",
+            "l": "Hinweis",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 145,
+            "i": 147,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "darauf",
+            "l": "darauf",
+            "p": "ADV",
+            "pt": "PROAV",
+            "d": "op",
+            "a": true,
+            "s": true,
+            "hi": 147,
+            "i": 148
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 148,
+            "i": 149
+          }
+        ]
+      }
+    },
+    {
+      "start": 56.915,
+      "end": 61.515,
+      "oriText": "dass sich die Regierung wieder\nmehr Russland zuwenden könnte.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "dass",
+            "l": "dass",
+            "p": "SCONJ",
+            "pt": "KOUS",
+            "d": "cp",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 159,
+            "i": 151
+          },
+          {
+            "t": "sich",
+            "l": "sich",
+            "p": "PRON",
+            "pt": "PRF",
+            "d": "oa",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 158,
+            "i": 152,
+            "m": {
+              "Case": "Acc",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs",
+              "Reflex": "Yes"
+            }
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 154,
+            "i": 153,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Regierung",
+            "l": "Regierung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 159,
+            "i": 154,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "wieder",
+            "l": "wieder",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 159,
+            "i": 155
+          },
+          {
+            "t": "mehr",
+            "l": "mehr",
+            "p": "DET",
+            "pt": "PIAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 157,
+            "i": 156,
+            "m": {
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "Russland",
+            "l": "Russland",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 158,
+            "i": 157,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zuwenden",
+            "l": "zuwenden",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 159,
+            "i": 158,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": "könnte",
+            "l": "können",
+            "p": "AUX",
+            "pt": "VMFIN",
+            "d": "re",
+            "a": true,
+            "s": true,
+            "hi": 148,
+            "i": 159,
+            "m": {
+              "Mood": "Sub",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 144,
+            "i": 160
+          }
+        ]
+      }
+    },
+    {
+      "start": 62.315,
+      "end": 66.015,
+      "oriText": "Ein Scherbenhaufen,\nder nun beseitigt werden muss.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Ein",
+            "l": "Ein",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 163,
+            "i": 162,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Ind",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Scherbenhaufen",
+            "l": "Scherbenhaufen",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "hi": 163,
+            "i": 163,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 163,
+            "i": 164
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "PRON",
+            "pt": "PRELS",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 168,
+            "i": 165,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Rel"
+            }
+          },
+          {
+            "t": "nun",
+            "l": "nun",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 167,
+            "i": 166
+          },
+          {
+            "t": "beseitigt",
+            "l": "beseitigen",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 168,
+            "i": 167,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": "werden",
+            "l": "werden",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "rc",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 163,
+            "i": 168,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "muss",
+            "l": "müssen",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "par",
+            "a": true,
+            "s": true,
+            "hi": 163,
+            "i": 169,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 163,
+            "i": 170
+          }
+        ]
+      }
+    },
+    {
+      "start": 66.215,
+      "end": 70.715,
+      "oriText": "Nach Protesten und Krawallen\nzieht die Regierung die Notbremse.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Nach",
+            "l": "Nach",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 176,
+            "i": 172
+          },
+          {
+            "t": "Protesten",
+            "l": "Protest",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 172,
+            "i": 173,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 173,
+            "i": 174
+          },
+          {
+            "t": "Krawallen",
+            "l": "Krawall",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 174,
+            "i": 175,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "zieht",
+            "l": "ziehen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 176,
+            "i": 176,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 178,
+            "i": 177,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Regierung",
+            "l": "Regierung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 176,
+            "i": 178,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 180,
+            "i": 179,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Notbremse",
+            "l": "Notbremse",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "hi": 176,
+            "i": 180,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 176,
+            "i": 181
+          }
+        ]
+      }
+    },
+    {
+      "start": 70.91499999999999,
+      "end": 74.41499999999999,
+      "oriText": "M. Midinaradze, Regierungspartei\n\"Georgischer Traum\":",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "M.",
+            "l": "M.",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 182,
+            "i": 183,
+            "m": {
+              "Case": "Nom",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Midinaradze",
+            "l": "Midinaradze",
+            "p": "PROPN",
+            "pt": "NN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "hi": 184,
+            "i": 184,
+            "m": {
+              "Case": "Nom",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 184,
+            "i": 185
+          },
+          {
+            "t": "Regierungspartei",
+            "l": "Regierungspartei",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 184,
+            "i": 186,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 189,
+            "i": 187
+          },
+          {
+            "t": "Georgischer",
+            "l": "Georgischer",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 189,
+            "i": 188,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Traum",
+            "l": "Traum",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 186,
+            "i": 189,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 189,
+            "i": 190
+          },
+          {
+            "t": ":",
+            "l": ":",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 184,
+            "i": 191
+          }
+        ]
+      }
+    },
+    {
+      "start": 74.515,
+      "end": 76.715,
+      "oriText": "&gt;Wir kippen den Gesetzesentwurf.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": ">",
+            "l": ">",
+            "p": "AUX",
+            "pt": "XY",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 192,
+            "i": 193,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "1",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "Wir",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 195,
+            "i": 194,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur",
+              "Person": "1",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "kippen",
+            "l": "kippen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 195,
+            "i": 195,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "1",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "den",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 197,
+            "i": 196,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Gesetzesentwurf",
+            "l": "Gesetzesentwurf",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "hi": 195,
+            "i": 197,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 195,
+            "i": 198
+          }
+        ]
+      }
+    },
+    {
+      "start": 76.815,
+      "end": 81.41499999999999,
+      "oriText": "&gt;Bei der nächsten Parlaments-Sitzung\nwird niemand mehr dafür stimmen.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": ">",
+            "l": ">",
+            "p": "X",
+            "pt": "XY",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 199,
+            "i": 200
+          },
+          {
+            "t": "Bei",
+            "l": "Bei",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 209,
+            "i": 201
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 204,
+            "i": 202,
+            "m": {
+              "Case": "Dat",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "nächsten",
+            "l": "nächst",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 204,
+            "i": 203,
+            "m": {
+              "Case": "Dat",
+              "Degree": "Pos",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Parlaments-Sitzung",
+            "l": "Parlaments-Sitzung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 201,
+            "i": 204,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "wird",
+            "l": "werden",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 205,
+            "i": 205,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "niemand",
+            "l": "niemand",
+            "p": "PRON",
+            "pt": "PIS",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 205,
+            "i": 206,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "mehr",
+            "l": "mehr",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 209,
+            "i": 207
+          },
+          {
+            "t": "dafür",
+            "l": "dafür",
+            "p": "ADV",
+            "pt": "PROAV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 209,
+            "i": 208
+          },
+          {
+            "t": "stimmen",
+            "l": "stimmen",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 205,
+            "i": 209,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 205,
+            "i": 210
+          }
+        ]
+      }
+    },
+    {
+      "start": 81.515,
+      "end": 84.715,
+      "oriText": "Doch die Opposition\ntraut der Regierung nicht.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Doch",
+            "l": "doch",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "ju",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 215,
+            "i": 212
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 214,
+            "i": 213,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Opposition",
+            "l": "Opposition",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 215,
+            "i": 214,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "traut",
+            "l": "trauen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 215,
+            "i": 215,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "der",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 217,
+            "i": 216,
+            "m": {
+              "Case": "Dat",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Regierung",
+            "l": "Regierung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "da",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 215,
+            "i": 217,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "nicht",
+            "l": "nicht",
+            "p": "PART",
+            "pt": "PTKNEG",
+            "d": "ng",
+            "a": true,
+            "s": true,
+            "hi": 215,
+            "i": 218
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 215,
+            "i": 219
+          }
+        ]
+      }
+    },
+    {
+      "start": 84.715,
+      "end": 89.515,
+      "oriText": "Sie will weiter demonstrieren, bis\ndas Gesetz endgültig vom Tisch ist",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Sie",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 222,
+            "i": 221,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "will",
+            "l": "wollen",
+            "p": "AUX",
+            "pt": "VMFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 222,
+            "i": 222,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "weiter",
+            "l": "weit",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 224,
+            "i": 223
+          },
+          {
+            "t": "demonstrieren",
+            "l": "demonstrieren",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 222,
+            "i": 224,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 224,
+            "i": 225
+          },
+          {
+            "t": "bis",
+            "l": "bis",
+            "p": "SCONJ",
+            "pt": "KOUS",
+            "d": "cp",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 232,
+            "i": 226
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 228,
+            "i": 227,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Gesetz",
+            "l": "Gesetz",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 232,
+            "i": 228,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "endgültig",
+            "l": "endgültig",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "pd",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 232,
+            "i": 229,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "vom",
+            "l": "vom",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 229,
+            "i": 230,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Tisch",
+            "l": "Tisch",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 230,
+            "i": 231,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "ist",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "cj",
+            "a": true,
+            "s": true,
+            "hi": 222,
+            "i": 232,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "start": 89.515,
+      "end": 92.215,
+      "oriText": "und alle Festgenommenen frei sind.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 233,
+            "i": 234
+          },
+          {
+            "t": "alle",
+            "l": "all",
+            "p": "DET",
+            "pt": "PIAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 236,
+            "i": 235,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "Festgenommenen",
+            "l": "Festgenommene",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 234,
+            "i": 236,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "frei",
+            "l": "frei",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "pd",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 238,
+            "i": 237,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "sind",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "oc",
+            "a": true,
+            "s": true,
+            "hi": 232,
+            "i": 238,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 222,
+            "i": 239
+          }
+        ]
+      }
+    },
+    {
+      "start": 92.41499999999999,
+      "end": 93.215,
+      "oriText": "G. Lemonmala, Opposition Georgien:",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "G.",
+            "l": "G.",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "pnc",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 242,
+            "i": 241,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Lemonmala",
+            "l": "Lemonmala",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 240,
+            "i": 242,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 240,
+            "i": 243
+          },
+          {
+            "t": "Opposition",
+            "l": "Opposition",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 240,
+            "i": 244,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Georgien",
+            "l": "Georgien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "n": "LOC",
+            "hi": 245,
+            "i": 245,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ":",
+            "l": ":",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 245,
+            "i": 246
+          }
+        ]
+      }
+    },
+    {
+      "start": 94.11500000000001,
+      "end": 99.11500000000001,
+      "oriText": "&gt;Dieses russische Gesetz\nist gegen Georgiens EU-Ambitionen.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": ">",
+            "l": ">",
+            "p": "X",
+            "pt": "CARD",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 247,
+            "i": 248
+          },
+          {
+            "t": "Dieses",
+            "l": "Dieses",
+            "p": "DET",
+            "pt": "PDAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 251,
+            "i": 249,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Dem"
+            }
+          },
+          {
+            "t": "russische",
+            "l": "russisch",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 251,
+            "i": 250,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Gesetz",
+            "l": "Gesetz",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 252,
+            "i": 251,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "ist",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 252,
+            "i": 252,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "gegen",
+            "l": "gegen",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 252,
+            "i": 253
+          },
+          {
+            "t": "Georgiens",
+            "l": "Georgien",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "ORG",
+            "hi": 255,
+            "i": 254,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "EU-Ambitionen",
+            "l": "EU-Ambitionen",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "hi": 253,
+            "i": 255,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 252,
+            "i": 256
+          }
+        ]
+      }
+    },
+    {
+      "start": 99.91499999999999,
+      "end": 103.61500000000001,
+      "oriText": "In Tiflis war die Stimmung\nzuletzt am Siedepunkt.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "In",
+            "l": "In",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 260,
+            "i": 258
+          },
+          {
+            "t": "Tiflis",
+            "l": "Tiflis",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 258,
+            "i": 259,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "war",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 260,
+            "i": 260,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 262,
+            "i": 261,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Stimmung",
+            "l": "Stimmung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 260,
+            "i": 262,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zuletzt",
+            "l": "zuletzt",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 260,
+            "i": 263
+          },
+          {
+            "t": "am",
+            "l": "am",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 260,
+            "i": 264,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Siedepunkt",
+            "l": "Siedepunkt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 264,
+            "i": 265,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 260,
+            "i": 266
+          }
+        ]
+      }
+    },
+    {
+      "start": 103.715,
+      "end": 108.11500000000001,
+      "oriText": "Viele befürchten, das\n\"Ausländische-Agenten-Gesetz\" könnte,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Viele",
+            "l": "viel",
+            "p": "PRON",
+            "pt": "PIS",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 269,
+            "i": 268,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "befürchten",
+            "l": "befürchten",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "hi": 269,
+            "i": 269,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 269,
+            "i": 270
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 273,
+            "i": 271,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 273,
+            "i": 272
+          },
+          {
+            "t": "Ausländische-Agenten-Gesetz",
+            "l": "Ausländische-Agenten-Gesetz",
+            "p": "NOUN",
+            "pt": "NE",
+            "d": "sb",
+            "a": false,
+            "s": false,
+            "n": "MISC",
+            "hi": 275,
+            "i": 273,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "\"",
+            "l": "\"",
+            "p": "PUNCT",
+            "pt": "$(",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 273,
+            "i": 274
+          },
+          {
+            "t": "könnte",
+            "l": "können",
+            "p": "AUX",
+            "pt": "VMFIN",
+            "d": "oc",
+            "a": true,
+            "s": true,
+            "hi": 269,
+            "i": 275,
+            "m": {
+              "Mood": "Sub",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 275,
+            "i": 276
+          }
+        ]
+      }
+    },
+    {
+      "start": 108.11500000000001,
+      "end": 113.015,
+      "oriText": "wie in Russland, ein Schritt\nRichtung autoritäre Herrschaft sein.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "wie",
+            "l": "wie",
+            "p": "ADP",
+            "pt": "KOKOM",
+            "d": "cm",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 279,
+            "i": 278
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "cc",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 277,
+            "i": 279
+          },
+          {
+            "t": "Russland",
+            "l": "Russland",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 279,
+            "i": 280,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 277,
+            "i": 281
+          },
+          {
+            "t": "ein",
+            "l": "einen",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 283,
+            "i": 282,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Ind",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Schritt",
+            "l": "Schritt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "pd",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 287,
+            "i": 283,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Richtung",
+            "l": "Richtung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 283,
+            "i": 284,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "autoritäre",
+            "l": "autoritär",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 286,
+            "i": 285,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Herrschaft",
+            "l": "Herrschaft",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 284,
+            "i": 286,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "sein",
+            "l": "mein",
+            "p": "AUX",
+            "pt": "VAINF",
+            "d": "oc",
+            "a": true,
+            "s": true,
+            "hi": 269,
+            "i": 287,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 269,
+            "i": 288
+          }
+        ]
+      }
+    },
+    {
+      "start": 113.11500000000001,
+      "end": 117.41499999999999,
+      "oriText": "Denn das kleine Land im Vorhof\nRusslands muss ohnehin aufpassen,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Denn",
+            "l": "denn",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "ju",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 293,
+            "i": 290
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 293,
+            "i": 291,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "kleine",
+            "l": "klein",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 293,
+            "i": 292,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Land",
+            "l": "Land",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 293,
+            "i": 293,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "im",
+            "l": "im",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 293,
+            "i": 294,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Vorhof",
+            "l": "Vorhof",
+            "p": "PROPN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 294,
+            "i": 295
+          },
+          {
+            "t": "Russlands",
+            "l": "Russland",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 295,
+            "i": 296,
+            "m": {
+              "Case": "Gen",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "muss",
+            "l": "müssen",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 299,
+            "i": 297,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "ohnehin",
+            "l": "ohnehin",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 299,
+            "i": 298
+          },
+          {
+            "t": "aufpassen",
+            "l": "aufpassen",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 293,
+            "i": 299,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 293,
+            "i": 300
+          }
+        ]
+      }
+    },
+    {
+      "start": 117.515,
+      "end": 122.515,
+      "oriText": "im Streit geopolitischer Interessen\nseine Unabhängigkeit zu bewahren.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "im",
+            "l": "im",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 301,
+            "i": 302,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Streit",
+            "l": "Streit",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 302,
+            "i": 303,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "geopolitischer",
+            "l": "geopolitischer",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 305,
+            "i": 304,
+            "m": {
+              "Case": "Gen",
+              "Degree": "Pos",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Interessen",
+            "l": "Interesse",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "ag",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 303,
+            "i": 305,
+            "m": {
+              "Case": "Gen",
+              "Gender": "Neut",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "seine",
+            "l": "mein",
+            "p": "DET",
+            "pt": "PPOSAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 307,
+            "i": 306,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "Poss": "Yes",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "Unabhängigkeit",
+            "l": "Unabhängigkeit",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 309,
+            "i": 307,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zu",
+            "l": "zu",
+            "p": "PART",
+            "pt": "PTKZU",
+            "d": "pm",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 309,
+            "i": 308
+          },
+          {
+            "t": "bewahren",
+            "l": "bewahren",
+            "p": "VERB",
+            "pt": "VVINF",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 293,
+            "i": 309,
+            "m": {
+              "VerbForm": "Inf"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 293,
+            "i": 310
+          }
+        ]
+      }
+    }
+  ]
+}]

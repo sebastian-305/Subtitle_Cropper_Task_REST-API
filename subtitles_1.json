@@ -1,0 +1,1765 @@
+[{
+  "subtitle_json": [
+    {
+      "start": 0.15,
+      "end": 1.15,
+      "oriText": "Temperaturen über 20 Grad, kilometerlange Strände",
+    },
+    {
+      "start": 3.69,
+      "end": 4.69,
+      "oriText": "und Krapfen zum Naschen.",
+    },
+    {
+      "start": 5.31,
+      "end": 6.31,
+      "oriText": "Ja, auch so geht Weihnachten.",
+    },
+    {
+      "start": 7.17,
+      "end": 8.17,
+      "oriText": "Wo, verraten wir jetzt.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Wo",
+            "l": "wo",
+            "p": "ADV",
+            "pt": "PWAV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "hi": 24,
+            "i": 22,
+            "m": {
+              "PronType": "Int"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 24,
+            "i": 23
+          },
+          {
+            "t": "verraten",
+            "l": "verraten",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 24,
+            "i": 24,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "1",
+              "Tense": "Past",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "wir",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 24,
+            "i": 25,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur",
+              "Person": "1",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "jetzt",
+            "l": "jetzt",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "hi": 24,
+            "i": 26
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 24,
+            "i": 27
+          }
+        ]
+      }
+    },
+    {
+      "start": 17.4,
+      "end": 18.4,
+      "oriText": "Weihnachtsstimmung kommt bei über 20 Grad\nnicht unbedingt auf.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Weihnachtsstimmung",
+            "l": "Weihnachtsstimmung",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 30,
+            "i": 29,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "kommt",
+            "l": "kommen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 30,
+            "i": 30,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "bei",
+            "l": "bei",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 30,
+            "i": 31
+          },
+          {
+            "t": "über",
+            "l": "über",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 33,
+            "i": 32
+          },
+          {
+            "t": "20",
+            "l": "20",
+            "p": "NUM",
+            "pt": "CARD",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 34,
+            "i": 33
+          },
+          {
+            "t": "Grad",
+            "l": "Grad",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 31,
+            "i": 34,
+            "m": {
+              "Gender": "Neut"
+            }
+          },
+          {
+            "t": "nicht",
+            "l": "nicht",
+            "p": "PART",
+            "pt": "PTKNEG",
+            "d": "ng",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 36,
+            "i": 35
+          },
+          {
+            "t": "unbedingt",
+            "l": "unbedingt",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 30,
+            "i": 36
+          },
+          {
+            "t": "auf",
+            "l": "auf",
+            "p": "ADP",
+            "pt": "PTKVZ",
+            "d": "svp",
+            "a": true,
+            "s": true,
+            "hi": 30,
+            "i": 37
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 30,
+            "i": 38
+          }
+        ]
+      }
+    },
+    {
+      "start": 21.6,
+      "end": 22.6,
+      "oriText": "Für Chanukka braucht es zum Glück keinen Schnee,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Für",
+            "l": "Für",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 42,
+            "i": 40
+          },
+          {
+            "t": "Chanukka",
+            "l": "Chanukka",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "ORG",
+            "hi": 40,
+            "i": 41,
+            "m": {
+              "Case": "Acc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "braucht",
+            "l": "brauchen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 42,
+            "i": 42,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "es",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "ep",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 42,
+            "i": 43,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "Person": "3",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "zum",
+            "l": "zum",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 42,
+            "i": 44,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Glück",
+            "l": "Glück",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 44,
+            "i": 45,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "keinen",
+            "l": "kein",
+            "p": "DET",
+            "pt": "PIAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 47,
+            "i": 46,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "Schnee",
+            "l": "Schnee",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "hi": 42,
+            "i": 47,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 47,
+            "i": 48
+          }
+        ]
+      }
+    },
+    {
+      "start": 24.39,
+      "end": 25.39,
+      "oriText": "sondern nur Sufganiyot.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "sondern",
+            "l": "sondern",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 49,
+            "i": 50
+          },
+          {
+            "t": "nur",
+            "l": "nur",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 52,
+            "i": 51
+          },
+          {
+            "t": "Sufganiyot",
+            "l": "Sufganiyot",
+            "p": "PROPN",
+            "pt": "NN",
+            "d": "cj",
+            "a": true,
+            "s": false,
+            "hi": 50,
+            "i": 52,
+            "m": {
+              "Case": "Nom",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 42,
+            "i": 53
+          }
+        ]
+      }
+    },
+    {
+      "start": 26.16,
+      "end": 27.16,
+      "oriText": "Pünktlich zu Weihnachten blicken wir einmal um die Welt\nund machen Halt in Israel.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Pünktlich",
+            "l": "Pünktlich",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 58,
+            "i": 55,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "zu",
+            "l": "zu",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 55,
+            "i": 56
+          },
+          {
+            "t": "Weihnachten",
+            "l": "Weihnachten",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 56,
+            "i": 57,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "blicken",
+            "l": "blicken",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 58,
+            "i": 58,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "1",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "wir",
+            "l": "ich",
+            "p": "PRON",
+            "pt": "PPER",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 58,
+            "i": 59,
+            "m": {
+              "Case": "Nom",
+              "Number": "Plur",
+              "Person": "1",
+              "PronType": "Prs"
+            }
+          },
+          {
+            "t": "einmal",
+            "l": "einmal",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 58,
+            "i": 60
+          },
+          {
+            "t": "um",
+            "l": "um",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 58,
+            "i": 61
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 63,
+            "i": 62,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Welt",
+            "l": "Welt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 61,
+            "i": 63,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "cd",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 58,
+            "i": 64
+          },
+          {
+            "t": "machen",
+            "l": "machen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "cj",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 64,
+            "i": 65,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "Halt",
+            "l": "Halt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 65,
+            "i": 66,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 65,
+            "i": 67
+          },
+          {
+            "t": "Israel",
+            "l": "Israel",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "n": "LOC",
+            "hi": 67,
+            "i": 68,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 58,
+            "i": 69
+          }
+        ]
+      }
+    },
+    {
+      "start": 30.54,
+      "end": 31.54,
+      "oriText": "Hier steht das Chanukka-Fest\nvom 18.bis 26.Dezember im Fokus.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Hier",
+            "l": "Hier",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 72,
+            "i": 71
+          },
+          {
+            "t": "steht",
+            "l": "stehen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 72,
+            "i": 72,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "das",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 74,
+            "i": 73,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Chanukka-Fest",
+            "l": "Chanukka-Fest",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 72,
+            "i": 74,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "vom",
+            "l": "vom",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 72,
+            "i": 75,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "18.bis",
+            "l": "18.bis",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 75,
+            "i": 76
+          },
+          {
+            "t": "26.Dezember",
+            "l": "26.Dezember",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 76,
+            "i": 77,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "im",
+            "l": "im",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 72,
+            "i": 78,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Fokus",
+            "l": "Fokus",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 78,
+            "i": 79,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 72,
+            "i": 80
+          }
+        ]
+      }
+    },
+    {
+      "start": 35.88,
+      "end": 36.88,
+      "oriText": "Während die Welt zu Weihnachten leckere Kekse isst,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Während",
+            "l": "während",
+            "p": "SCONJ",
+            "pt": "KOUS",
+            "d": "cp",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 89,
+            "i": 82
+          },
+          {
+            "t": "die",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 84,
+            "i": 83,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Def",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Welt",
+            "l": "Welt",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 89,
+            "i": 84,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "zu",
+            "l": "zu",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 89,
+            "i": 85
+          },
+          {
+            "t": "Weihnachten",
+            "l": "Weihnachten",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 85,
+            "i": 86,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "leckere",
+            "l": "leckere",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 88,
+            "i": 87,
+            "m": {
+              "Case": "Nom",
+              "Degree": "Pos",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Kekse",
+            "l": "Keks",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 89,
+            "i": 88,
+            "m": {
+              "Case": "Nom",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "isst",
+            "l": "essen",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "hi": 89,
+            "i": 89,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 89,
+            "i": 90
+          }
+        ]
+      }
+    },
+    {
+      "start": 38.58,
+      "end": 39.58,
+      "oriText": "kommt in Israel pünktlich zum Chanukka-Fest\nSufganiyot auf den Dessertteller.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "kommt",
+            "l": "kommen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "cj",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 89,
+            "i": 92,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 92,
+            "i": 93
+          },
+          {
+            "t": "Israel",
+            "l": "Israel",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 93,
+            "i": 94,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "pünktlich",
+            "l": "pünktlich",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 96,
+            "i": 95,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "zum",
+            "l": "zum",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 92,
+            "i": 96,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Chanukka-Fest",
+            "l": "Chanukka-Fest",
+            "p": "NOUN",
+            "pt": "NE",
+            "d": "pnc",
+            "a": false,
+            "s": false,
+            "w": " ",
+            "hi": 98,
+            "i": 97,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Sufganiyot",
+            "l": "Sufganiyot",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 96,
+            "i": 98,
+            "m": {
+              "Case": "Dat",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "auf",
+            "l": "auf",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 92,
+            "i": 99
+          },
+          {
+            "t": "den",
+            "l": "der",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 101,
+            "i": 100,
+            "m": {
+              "Case": "Acc",
+              "Definite": "Def",
+              "Gender": "Masc",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Dessertteller",
+            "l": "Dessertteller",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 99,
+            "i": 101,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 92,
+            "i": 102
+          }
+        ]
+      }
+    },
+    {
+      "start": 43.44,
+      "end": 44.44,
+      "oriText": "Momentan verkaufen Bäckereien in ganz Israel diese Sufganiyot.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Momentan",
+            "l": "Momentan",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 105,
+            "i": 104,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "verkaufen",
+            "l": "verkaufen",
+            "p": "VERB",
+            "pt": "VVFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 105,
+            "i": 105,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "Bäckereien",
+            "l": "Bäckerei",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 105,
+            "i": 106,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "in",
+            "l": "in",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 105,
+            "i": 107
+          },
+          {
+            "t": "ganz",
+            "l": "ganz",
+            "p": "ADV",
+            "pt": "ADJD",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 109,
+            "i": 108,
+            "m": {
+              "Degree": "Pos"
+            }
+          },
+          {
+            "t": "Israel",
+            "l": "Israel",
+            "p": "PROPN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "n": "LOC",
+            "hi": 107,
+            "i": 109,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "diese",
+            "l": "dies",
+            "p": "DET",
+            "pt": "PDAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 111,
+            "i": 110,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Sing",
+              "PronType": "Dem"
+            }
+          },
+          {
+            "t": "Sufganiyot",
+            "l": "Sufganiyot",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "hi": 105,
+            "i": 111,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 105,
+            "i": 112
+          }
+        ]
+      }
+    },
+    {
+      "start": 48.42,
+      "end": 49.42,
+      "oriText": "Manche Bäckereien haben sich ganz spezielle Variationen ausgedacht,",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Manche",
+            "l": "manch",
+            "p": "DET",
+            "pt": "PIAT",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 115,
+            "i": 114,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur",
+              "PronType": "Ind"
+            }
+          },
+          {
+            "t": "Bäckereien",
+            "l": "Bäckerei",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "sb",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 116,
+            "i": 115,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "haben",
+            "l": "haben",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 116,
+            "i": 116,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Plur",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "sich",
+            "l": "sich",
+            "p": "PRON",
+            "pt": "PRF",
+            "d": "da",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 121,
+            "i": 117,
+            "m": {
+              "Case": "Acc",
+              "Number": "Plur",
+              "Person": "3",
+              "PronType": "Prs",
+              "Reflex": "Yes"
+            }
+          },
+          {
+            "t": "ganz",
+            "l": "ganz",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 119,
+            "i": 118
+          },
+          {
+            "t": "spezielle",
+            "l": "speziell",
+            "p": "ADJ",
+            "pt": "ADJA",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 120,
+            "i": 119,
+            "m": {
+              "Case": "Acc",
+              "Degree": "Pos",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "Variationen",
+            "l": "Variation",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "oa",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 121,
+            "i": 120,
+            "m": {
+              "Case": "Acc",
+              "Gender": "Fem",
+              "Number": "Plur"
+            }
+          },
+          {
+            "t": "ausgedacht",
+            "l": "ausdenken",
+            "p": "VERB",
+            "pt": "VVPP",
+            "d": "oc",
+            "a": true,
+            "s": false,
+            "hi": 116,
+            "i": 121,
+            "m": {
+              "VerbForm": "Part"
+            }
+          },
+          {
+            "t": ",",
+            "l": ",",
+            "p": "PUNCT",
+            "pt": "$,",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 121,
+            "i": 122
+          }
+        ]
+      }
+    },
+    {
+      "start": 52.29,
+      "end": 53.29,
+      "oriText": "wie zum Beispiel diese hier.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "wie",
+            "l": "wie",
+            "p": "ADP",
+            "pt": "KOKOM",
+            "d": "cm",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 127,
+            "i": 124
+          },
+          {
+            "t": "zum",
+            "l": "zum",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "cj",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 124,
+            "i": 125,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Beispiel",
+            "l": "Beispiel",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 125,
+            "i": 126,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "diese",
+            "l": "dies",
+            "p": "PRON",
+            "pt": "PDS",
+            "d": "cc",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 123,
+            "i": 127,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Plur",
+              "PronType": "Dem"
+            }
+          },
+          {
+            "t": "hier",
+            "l": "hier",
+            "p": "ADV",
+            "pt": "ADV",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "hi": 123,
+            "i": 128
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 116,
+            "i": 129
+          }
+        ]
+      }
+    },
+    {
+      "start": 53.94,
+      "end": 54.94,
+      "oriText": "Und dieses ist zum Beispiel ein Sufganiyot mit Cheetos.",
+      "nlp": {
+        "tkm": [
+          {
+            "t": "Und",
+            "l": "und",
+            "p": "CCONJ",
+            "pt": "KON",
+            "d": "ju",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 133,
+            "i": 131
+          },
+          {
+            "t": "dieses",
+            "l": "dies",
+            "p": "PRON",
+            "pt": "PDS",
+            "d": "sb",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 133,
+            "i": 132,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Dem"
+            }
+          },
+          {
+            "t": "ist",
+            "l": "sein",
+            "p": "AUX",
+            "pt": "VAFIN",
+            "d": "ROOT",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 133,
+            "i": 133,
+            "m": {
+              "Mood": "Ind",
+              "Number": "Sing",
+              "Person": "3",
+              "Tense": "Pres",
+              "VerbForm": "Fin"
+            }
+          },
+          {
+            "t": "zum",
+            "l": "zum",
+            "p": "ADP",
+            "pt": "APPRART",
+            "d": "mo",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 133,
+            "i": 134,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "Beispiel",
+            "l": "Beispiel",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 134,
+            "i": 135,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "ein",
+            "l": "einen",
+            "p": "DET",
+            "pt": "ART",
+            "d": "nk",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 137,
+            "i": 136,
+            "m": {
+              "Case": "Nom",
+              "Definite": "Ind",
+              "Gender": "Neut",
+              "Number": "Sing",
+              "PronType": "Art"
+            }
+          },
+          {
+            "t": "Sufganiyot",
+            "l": "Sufganiyot",
+            "p": "NOUN",
+            "pt": "NN",
+            "d": "pd",
+            "a": true,
+            "s": false,
+            "w": " ",
+            "hi": 133,
+            "i": 137,
+            "m": {
+              "Case": "Nom",
+              "Gender": "Masc",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": "mit",
+            "l": "mit",
+            "p": "ADP",
+            "pt": "APPR",
+            "d": "mnr",
+            "a": true,
+            "s": true,
+            "w": " ",
+            "hi": 137,
+            "i": 138
+          },
+          {
+            "t": "Cheetos",
+            "l": "Cheetos",
+            "p": "NOUN",
+            "pt": "NE",
+            "d": "nk",
+            "a": true,
+            "s": false,
+            "hi": 138,
+            "i": 139,
+            "m": {
+              "Case": "Dat",
+              "Gender": "Neut",
+              "Number": "Sing"
+            }
+          },
+          {
+            "t": ".",
+            "l": ".",
+            "p": "PUNCT",
+            "pt": "$.",
+            "d": "punct",
+            "a": false,
+            "s": false,
+            "hi": 133,
+            "i": 140
+          }
+        ]
+      }
+    }
+  ]
+}]
