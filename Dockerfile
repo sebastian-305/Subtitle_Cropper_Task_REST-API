@@ -6,6 +6,8 @@ RUN npm install
 COPY .env ./
 COPY scripts ./scripts
 
+VOLUME /usr/app/logs
+
 EXPOSE 7331
 
-# CMD ["node", "."]
+CMD node . > logs/app.log 2>&1

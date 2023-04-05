@@ -34,7 +34,7 @@ function checkIfRequestIsValid(requestObject) {
 }
 exports.checkIfRequestIsValid = checkIfRequestIsValid;
 function textSeparator(inputArray) {
-    lib_js_1.logger.info(`Entering function textSeparator`);
+    lib_js_1.logger.verbose(`Entering function textSeparator`);
     let index = 0;
     let finishedChunkTexts = [];
     const chunkMaxWords = (0, lib_js_1.getEnvAsNumber)('SCT_CHUNK_WORDS_COUNT') || 1500;
