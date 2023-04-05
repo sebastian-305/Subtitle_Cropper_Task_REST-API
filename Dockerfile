@@ -8,4 +8,4 @@ COPY scripts ./scripts
 
 EXPOSE 7331
 
-CMD ["node", "."]
+# CMD ["node", "."]

@@ -17,15 +17,13 @@ app.use((err, req, res, next) => {
 app.use((req, res, next) => {
     lib_js_1.logger.info(`=================`);
     lib_js_1.logger.info(`Request received`);
-    lib_js_1.logger.info(`IP: ${IP.address()}`);
-    lib_js_1.logger.info(`Target: ${req.url}`);
-    lib_js_1.logger.info(`Method: ${req.method}`);
-    lib_js_1.logger.info(`Headers: ${req.rawHeaders}`);
+    lib_js_1.logger.info(`IP: ${IP.address()} Target: ${req.url} | Method: ${req.method}`);
+    lib_js_1.logger.verbose(`Headers: ${req.rawHeaders}`);
     next();
 });
-app.listen(PORT, () => console.log(`it's alive on http://localhost:${PORT}`));
+app.listen(PORT, () => lib_js_1.logger.info(`It's alive on http://localhost:${PORT}`));
 app.post('/chunks', (req, res) => {
-    lib_js_1.logger.info('Entering app.post');
+    lib_js_1.logger.verbose('Entering app.post of /chunks');
     try {
         if ((0, subtitle_cropper_task_js_1.checkIfRequestIsValid)(req)) {
             lib_js_1.logger.info('Request valid');

@@ -1,7 +1,7 @@
 {
   "name": "subtitle_cropper_task_rest-api",
   "version": "0.3.0",
-  "description": "",
+  "description": "Rest API that recives a subtitle array json object, filters out the text and crops it to the desired length and returns ist in a json object",
   "main": "scripts/index.js",
   "scripts": {
     "compile": "tsc -p ./",

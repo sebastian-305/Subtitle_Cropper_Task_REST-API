@@ -7,26 +7,33 @@ var LoggerLevel;
     LoggerLevel[LoggerLevel["ERROR"] = 1] = "ERROR";
     LoggerLevel[LoggerLevel["WARNING"] = 2] = "WARNING";
     LoggerLevel[LoggerLevel["INFO"] = 3] = "INFO";
-    LoggerLevel[LoggerLevel["DEBUG"] = 4] = "DEBUG";
+    LoggerLevel[LoggerLevel["VERBOSE"] = 4] = "VERBOSE";
+    LoggerLevel[LoggerLevel["DEBUG"] = 5] = "DEBUG";
 })(LoggerLevel = exports.LoggerLevel || (exports.LoggerLevel = {}));
 class SimpleLogger {
-    constructor(initial_level = LoggerLevel.OFF) {
+    constructor(initial_level = LoggerLevel.OFF, additonalOutput = null) {
         this._levelString = [
             'OFF',
             'ERROR',
             'WARNING',
             'INFO',
+            'VERBOSE',
             'DEBUG',
         ];
         this._level = initial_level;
+        this._additionalOutput = additonalOutput;
         this.info(`===================================`);
-        this.info(`Starting Simple Logger with loggerlevel: ${this.levelAsString}`);
-        this.info(`===================================`);
+        this.info(`Starting Simple Logger with logger level: ${this.levelAsString}`);
+    }
+    set additionalOutput(additonalOutput) {
+        if (typeof additonalOutput == 'undefined')
+            additonalOutput = null;
+        this._additionalOutput = additonalOutput;
     }
     set level(lvl) {
-        if (lvl > 4) {
-            console.error('Logger Level is too high!');
-            this._level = LoggerLevel.INFO;
+        if (lvl > LoggerLevel.DEBUG) {
+            this.error('Logger level is too high! Request level: ' + lvl);
+            this._level = LoggerLevel.DEBUG;
             return;
         }
         this._level = lvl;
@@ -39,22 +46,47 @@ class SimpleLogger {
     }
     debug(msg) {
         if (this.level >= LoggerLevel.DEBUG) {
-            console.log('SimpleLogger: ', msg);
+            msg = `(${new Date().toISOString()}) ` + '(Debug)  : ' + msg;
+            console.log(msg);
+            if (this._additionalOutput) {
+                this._additionalOutput.write(msg);
+            }
+        }
+    }
+    verbose(msg) {
+        if (this.level >= LoggerLevel.VERBOSE) {
+            msg = `(${new Date().toISOString()}) ` + '(Verbose): ' + msg;
+            console.log(msg);
+            if (this._additionalOutput) {
+                this._additionalOutput.write(msg);
+            }
         }
     }
     info(msg) {
         if (this.level >= LoggerLevel.INFO) {
-            console.log('SimpleLogger: ', msg);
+            msg = `(${new Date().toISOString()}) ` + '(Info)   : ' + msg;
+            console.log(msg);
+            if (this._additionalOutput) {
+                this._additionalOutput.write(msg);
+            }
         }
     }
     warning(msg) {
         if (this.level >= LoggerLevel.WARNING) {
-            console.warn('SimpleLogger: ', msg);
+            msg = `(${new Date().toISOString()}) ` + '(Warning): ' + msg;
+            console.warn(msg);
+            if (this._additionalOutput) {
+                this._additionalOutput.write(msg);
+            }
         }
     }
     error(msg) {
         if (this.level >= LoggerLevel.ERROR) {
-            console.error('SimpleLogger: ', msg);
+            msg = `(${new Date().toISOString()}) ` + '(Error)   : ' + msg;
+            console.error(msg);
+            if (this._additionalOutput) {
+                this._additionalOutput.write(msg);
+            }
         }
     }
 }

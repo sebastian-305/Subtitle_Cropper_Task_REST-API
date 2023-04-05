@@ -18,18 +18,18 @@ app.use((err: any, req: any, res: any, next: any) => {
 app.use((req: any, res: any, next: any) => {
     logger.info(`=================`);
     logger.info(`Request received`);
-    logger.info(`IP: ${IP.address()}`);
-    logger.info(`Target: ${req.url}`);
-    logger.info(`Method: ${req.method}`);
-    logger.info(`Headers: ${req.rawHeaders}`);
+    logger.info(
+        `IP: ${IP.address()} Target: ${req.url} | Method: ${req.method}`,
+    );
+    logger.verbose(`Headers: ${req.rawHeaders}`);
 
     next();
 });
 
-app.listen(PORT, () => console.log(`it's alive on http://localhost:${PORT}`));
+app.listen(PORT, () => logger.info(`It's alive on http://localhost:${PORT}`));
 
 app.post('/chunks', (req: any, res: any) => {
-    logger.info('Entering app.post');
+    logger.verbose('Entering app.post of /chunks');
     try {
         if (checkIfRequestIsValid(req)) {
             logger.info('Request valid');

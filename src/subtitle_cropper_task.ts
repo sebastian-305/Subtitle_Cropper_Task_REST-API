@@ -58,7 +58,7 @@ export function checkIfRequestIsValid(requestObject: Request): boolean {
 export function textSeparator(
     inputArray: {start: number; end: number; oriText: string}[],
 ): {chunkNumber: number; oriText: string}[] {
-    logger.info(`Entering function textSeparator`);
+    logger.verbose(`Entering function textSeparator`);
 
     let index = 0;
     let finishedChunkTexts = [];
