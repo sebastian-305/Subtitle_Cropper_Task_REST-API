@@ -37,7 +37,7 @@ The output will contain also an array of json objects, containing a "chunkNumber
 ]
 ```
 
- Also it is planned that the data will be processed despite errors in the request. It is planned to integrate the error messages in this response syntax. But in the current version, only flawless data will be processed.
+ In the current version, only flawless data will be processed. It is planned that the data will be processed despite errors in the request. The error messages will be integrate the in the response syntax.
 
 ### Error Response
 

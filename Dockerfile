@@ -1,13 +1,29 @@
-FROM node:19-slim
+FROM node:18-alpine3.17 as ts-compiler
 WORKDIR /usr/app
-COPY package.json .
+COPY package*.json ./
+COPY tsconfig*.json ./
 RUN npm install
+COPY src ./src
+RUN npm run compile
 
-COPY .env ./
-COPY scripts ./scripts
+FROM node:18-alpine3.17 as ts-remover
+WORKDIR /usr/app
+COPY --from=ts-compiler /usr/app/package*.json ./
+COPY --from=ts-compiler /usr/app/scripts ./scripts
+RUN npm install --only=production
 
-VOLUME /usr/app/logs
+FROM gcr.io/distroless/nodejs:18
+WORKDIR /usr/app
+COPY --from=ts-remover /usr/app ./
 
-EXPOSE 7331
+ENV SCT_PORT=3000 \
+    SCT_CHUNK_WORDS_COUNT=1500 \
+    SCT_INITIAL_LOGGERLEVEL=5 \
+    SCT_SEPARATING_CHARS=!?. \
+    SCT_MAX_REQUEST_SIZE=1mb
 
-CMD node . > logs/app.log 2>&1
+
+EXPOSE 3000
+
+USER 1000
+CMD ["./scripts/index.js"]
