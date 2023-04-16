@@ -8,7 +8,7 @@ This API is used to crop multiple subtitle snippets to text chunks with a specif
 
 This API is used via the POST method on the subdirectory '/chunks'
 
-The request body must consist of a array of specific objects in the json format as follows:
+The request body must consist of an array of the specified objects in json format as follows:
 
 ``` typescript
 [
@@ -25,7 +25,7 @@ The keys "start" and "end" are optional, but every object in the array must cont
 
 ### Response
 
-The output will contain also an array of json objects, containing a "chunkNumber" key and an "oriText" key as follows:
+The output will also contain an array of json objects, containing a "chunkNumber" key and an "oriText" key as follows:
 
 ``` typescript
 [
