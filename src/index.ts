@@ -46,6 +46,9 @@ app.post('/chunks', (req: any, res: any) => {
         }
     } catch (e) {
         logger.error(`Error while checking the request: ${e}`);
-        res.status(400).send({Error: e as string});
+        res.status(400).send({
+            Error: e as string,
+            Info: 'If no error message is displayed, there might be an internal error with the application. Please contact the administrator.',
+        });
     }
 });

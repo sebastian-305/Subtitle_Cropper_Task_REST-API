@@ -74,7 +74,7 @@ export function textSeparator(
         nextChunkWords = null;
 
         logger.debug(
-            `Entering small while loob with current slice being: ${currentSlice.slice(
+            `Entering small while loop with current slice being: ${currentSlice.slice(
                 0,
                 10,
             )}`,

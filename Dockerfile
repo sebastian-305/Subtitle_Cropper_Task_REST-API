@@ -12,6 +12,7 @@ COPY --from=ts-compiler /usr/app/package*.json ./
 COPY --from=ts-compiler /usr/app/scripts ./scripts
 RUN npm install --only=production
 
+# gcr.io is a lightweight image by google
 FROM gcr.io/distroless/nodejs:18
 WORKDIR /usr/app
 COPY --from=ts-remover /usr/app ./
